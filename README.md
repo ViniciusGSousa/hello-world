@@ -4,7 +4,7 @@
 
 **Código teste**
 ```
-b, e = n2 = int(input("Digite a base: ")), int(input("Digite o expoente: "));
+b, e = int(input("Digite a base: ")), int(input("Digite o expoente: "));
 cont = 0;
 result = 1;
 
